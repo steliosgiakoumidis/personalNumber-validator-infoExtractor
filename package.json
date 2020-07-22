@@ -1,0 +1,8 @@
+{
+  "name": "swedish-personal-number-validator-generator",
+  "version": "1.0.0",
+  "description": "A personal number validator that returns an object of all info retrieved by the personal number, plus a generator to simplify testing",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
