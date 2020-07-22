@@ -15,11 +15,3 @@ describe('Personal number', () => {
            assert.equal(test.PersonalNumberInfo.gender, 'male');
        });
    });
-
-
-
-// const validator = require('./SwedishPersonalNumber.js')
-
-// const a = validator.validateAndExtractInfo('8510201471')
-
-// console.log(a)
